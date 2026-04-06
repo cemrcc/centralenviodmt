@@ -13,28 +13,18 @@ const templates = {
             { id: '272', name: "Corpo de Oficiais Militar", logo: "https://i.imgur.com/aJ5Qrov.png" },
             { id: '268', name: "Especialização Intermediária", logo: "https://i.imgur.com/q6t5IBe.png" }
         ],
-        bbcode: `[font=Poppins][table style="border: none!important; margin: 0em; color: black; font-weight: 400; border-radius: 10px; line-height: 0.5em;" bgcolor="#1d1d1d"]
-[tr style="border: none;"][td style="border: none!important;"][center][img]https://i.imgur.com/rcv2OLi.gif[/img][/center][table class="rank" style="border: none!important; margin: 0em; line-height: 1em;" bgcolor="#045199"][tr style="border: none;"][td style="border: none!important;"][size=18][color=white][b][color=#ffffff][img]https://i.imgur.com/9Lr1ZZt.gif[/img]
-CENTRO DE ELITIZAÇÃO MILITAR[/color][/b][/color][/size][/td][/tr][/table]
+        bbcode: `[table style="width: 100%; overflow: hidden; border-radius: 15px; font-family: 'Poppins', sans-serif; text-align: justify" bgcolor="#045199"][tr style="border: none!important;"][td style="border: none!important; padding: 5px"][table style="width: 100%; overflow: hidden; border-radius: 15px" bgcolor="#1d1d1d"][tr style="border: none!important;"][td style="border: none!important;"][img]https://i.imgur.com/rcv2OLi.gif[/img]
+[table style="width: auto; border: none!important; overflow: hidden; border-radius: 100px; position: relative; font-weight: 700; color: white; top: -5px; margin: 0 auto; z-index: 2" bgcolor="045199"][tr style="border: none !important;"][td style="border: none!important; padding: 15px 50px 15px 50px;"]PROCESSO SELETIVO[/td][/tr][/table][table style="width: 100%; border: none!important; overflow: hidden; border-radius: 15px; position: relative; margin-top: -28px; z-index: 1;" bgcolor="f0f0f0"][tr style="border: none !important;"][td style="border: none!important; padding: 3px"][table style="width: 100%; border: none!important; overflow: hidden; border-radius: 15px; line-height: 1.6em" bgcolor="D9D9D9"][tr style="border: none !important;"][td style="border: none!important;  text-align: justify"]
+[center]Saudações, [b][color=#045199]{USERNAME}[/color][/b][/center]
+[table style="width: 15%; border: none!important; overflow: hidden; border-radius: 100px; margin: 0 auto; margin-top: 8px" bgcolor="045199"][tr style="border: none !important;"][td style="border: none!important; padding: 1px"][/td][/tr][/table]
+[center]Quer fazer a diferença na RCC? Vem pro [b][color=#045199]CEM![/color][/b][/center]
 
-[table style="border: none!important; border-radius: 10px; margin: 0em; line-height: 1em;" bgcolor="FFFFFF"][tr style="border: none;"][td style="border: none!important;"][table style="border: none!important; border-radius: 10px; margin: 0em; line-height: 1em;" bgcolor="045199"][tr style="border: none;"][td style="border: none!important;"][size=18][color=white][b][color=#ffffff]PROCESSO SELETIVO ABERTO![/b][/color][/color][/size][/td][/tr][/table]
+Porque o [color=#045199][b]Centro de Elitização Militar (CEM)[/b][/color] está de portas abertas e nossa missão principal é preparar e dar todo o suporte para os praças até o grande momento de entrarem no [b][color=#045199]Corpo de Oficiais[/color][/b]. Por isso, se você tem vontade de ajudar, ensinar e impactar de verdade a evolução dei militares da RCC, o seu lugar é no [b][color=#045199]CEM[/color][/b]. Então, venha fazer parte da nossa subcompanhia e ajude a formar os nossos futuros líderes. Vem pro CEM, a [b][color=#045199]MELHOR[/color][/b] subcompanhia da RCC!
 
-[center]Saudações, [b]{USERNAME}[/b]![/center][size=13]
-[justify]O [b][color=#045199]Centro de Elitização Militar (CEM)[/color][/b] tem como missão acompanhar a jornada dos praças até ao momento de adentrar ao Corpo de Oficiais da instituição, oferecendo suporte, aprimoramento e excelência em todas as atividades aplicadas. Com isso, convidamos você para participar dessa equipe e fazer a diferença na vida dos praças. [b][color=#045199]CEM[/color][/b] a MELHOR subcompanhia da RCC.
-[/justify][/size]
-
-
-[table    style="font-weight: 500; border-radius: 10px 10px 0px 0px; width: 30%; float: left; overflow: hidden;" bgcolor="#045199"][tr style="border: none !important; overflow: hidden"][td style="border: none!important; overflow: hidden; padding: 0.5%"][font=Poppins][size=15][color=#FFFFFF][b]REQUISITOS NECESSÁRIOS[/b][/color][/size][/font][/td][/tr][/table][table    style="font-weight: 500; border-radius: 0px 10px 10px 10px; width: 600px; margin-top: -1px; clear: both; overflow: hidden;" bgcolor="#EDF1F2"][tr style="border: none !important; overflow: hidden"][td style="border: none!important; overflow: hidden; padding: 1.7%"][font=Poppins][left][color=#000000]Ser Oficial do Corpo Militar ou do Corpo Executivo com Especialização Intermediária.[/color][/left][/font][/td][/tr][/table]
-
-
-[table style="border: none!important; border-radius: 10px; margin: 0em; line-height: 1em;" bgcolor="045199"][tr style="border: none;"][td style="border: none!important;"][size=15][color=white][b][url=https://cemseletiva.netlify.app/][color=#ffffff]CLIQUE AQUI PARA SE INSCREVER![/url][/b][/color][/color][/size][/td][/tr][/table]
-
-[center][size=20][font=cursive][i][color=#045199]Não perde mais tempo, juntos brindaremos a um futuro melhor![/color][/i][/font][/size][/center]
-[/td][/tr][/table]
-
-[img(50px,28px)]https://i.imgur.com/Gj9ramc.png[/img]
-
-[/td][/tr][/table][/font]`
+[table style="width: auto; border: none!important; overflow: hidden; border-radius: 15px; position: relative; font-weight: 700; color: #045199; top: 13px; left: 25px; margin-top: -10px; z-index: 3" bgcolor="D9D9D9"][tr style="border: none !important;"][td style="border: none!important; padding: 3px"]REQUISITOS NECESSÁRIOS[/td][/tr][/table][table style="width: 100%; overflow: hidden; border-radius: 15px;position: relative; text-align: justify; z-index: 2" bgcolor="045199"]
+[tr style="border: none !important;"][td style="border: none!important" bgcolor="D9D9D9"]Ser Oficial do Corpo Militar ou do Corpo Executivo com Especialização Intermediária. Para realizar a inscrição, clique no botão [b][color=#045199]Formulário[/color][/b] abaixo
+[table style="width: 20%; border: none!important; overflow: hidden; color: white; border-radius: 100px; margin: 0 auto" bgcolor="045199"][tr style="border: none !important;"][td style="width: 20%;  border: none!important; padding: 8px"][url=https://cemseletiva.netlify.app/][img(26px,26px)]https://i.imgur.com/X9DFsrx.png[/img][/url][/td][td style="width: 35%; border: none!important; padding: 3px"][url=https://cemseletiva.netlify.app/][left][color=white][b]FORMULÁRIO[/b][/color][/left][/url][/td][/tr][/table][/td][/tr][/table][/td][/tr][/table][/td][/tr][/table]
+[size=11][color=white]<i class="fas fa-palette"></i>   BBCode por [b].Brendon[/b][/color][/size][/td][/tr][/table][/td][/tr][/table]`
     },
 
     // ========================================
