@@ -324,10 +324,10 @@ RCC.[/justify][/td][/tr][/table]
 [center][table  style="border-radius:15px; overflow:hidden; width:620px; text-align:center;" bgcolor="#045199"][tr][td style="padding:10px; text-align:center; vertical-align:middle; width:50%;"][url=https://www.policiarcc.com/t38544-cem-ranking-de-pracas-umbrindeaofuturo]
 [img(40px,40px)]https://i.imgur.com/0NW5Xkl.png[/img]
 [b][size=14][color=white]TÓPICO[/color][/size][/b]
-[size=11][color=white]Clique aqui para poder acessar o tópico.[/color][/size][/url][/td][td style="padding:10px; text-align:center; vertical-align:middle; width:50%;"][url=https://docs.google.com/spreadsheets/d/1z_RxKOyJRsiaDBjSuzyxFstsir1DcDi8piFJCSJ-biI/edit]
+[size=11][color=white]Clique aqui para poder acessar o tópico.[/color][/size][/url][/td][td style="padding:10px; text-align:center; vertical-align:middle; width:50%;"][url=https://cem-rankingdepracas.netlify.app/]
 [img(40px,40px)]https://i.imgur.com/WtaKKSz.png[/img]
 [b][size=14][color=white]RANKING DE PRAÇAS[/color][/size][/b]
-[size=11][color=white]Clique aqui para acessar a planilha.[/color][/size][/url][/td][/tr][/table][/td][/tr][/table][/center]
+[size=11][color=white]Clique aqui para acessar o ranking.[/color][/size][/url][/td][/tr][/table][/td][/tr][/table][/center]
 
 [size=11][color=white]BBCode por [url=https://system.policercc.com.br/membros/.Brendon][color=white][b].Brendon[/b][/color][/url].
 Texto por [url=https://system.policercc.com.br/membros/Crisw][color=white][b]Crisw[/b][/color][/url].[/color][/size][/td][/tr][/table][/font]`
