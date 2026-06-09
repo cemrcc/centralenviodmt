@@ -335,18 +335,17 @@ Texto por [url=https://system.policercc.com.br/membros/Crisw][color=white][b]Cri
 
     // ========================================
     // DESTAQUES MELHORES DO CEM
-    // Enviar para: Corpo de Oficiais e EI
+    // Enviar para: CEM
     // Campos: Data do Período, Texto, Nick, Banner
     // ========================================
     destaques_melhores: {
         title: "Melhores do CEM",
         description: "Envie os destaques dos Melhores da Semana.",
-        destino: "Corpo de Oficiais e EI",
+        destino: "CEM",
         hasForm: true,
         subject: "[CEM] Conheça os melhores do CEM da semana!",
         groups: [
-            { id: '272', name: "Corpo de Oficiais Militar", logo: "https://i.imgur.com/aJ5Qrov.png" },
-            { id: '268', name: "Especialização Intermediária", logo: "https://i.imgur.com/q6t5IBe.png" }
+            { id: '574', name: "Centro de Elitização Militar", logo: "https://i.imgur.com/9Lr1ZZt.gif" }
         ],
         bbcode: `[font=Poppins][table    style="border: none!important; overflow: hidden; border-radius: 15px; line-height: 0.6em" bgcolor="#1D1D1D"][tr style="overflow: hidden; border: none !important;"][td style="border: none!important; overflow: hidden"][img]https://i.postimg.cc/bvkJK1B3/1.gif[/img]
 
