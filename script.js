@@ -1,9 +1,4 @@
-// Templates de BBCode para o Departamento de Marketing e Tecnologia - CEM
 const templates = {
-    // ========================================
-    // PROCESSO SELETIVO
-    // Enviar para: Corpo de Oficiais Militar e EI
-    // ========================================
     processo_seletivo: {
         title: "Processo Seletivo",
         description: "Envie a divulgação do Processo Seletivo do CEM.",
@@ -27,10 +22,6 @@ Porque o [color=#045199][b]Centro de Elitização Militar (CEM)[/b][/color] est�
 [size=11][color=white]<i class="fas fa-palette"></i>   BBCode por [b].Brendon[/b][/color][/size][/td][/tr][/table][/td][/tr][/table]`
     },
 
-    // ========================================
-    // RANKING DE PRAÇAS
-    // Enviar para: Todas as CIAS
-    // ========================================
     ranking_pracas: {
         title: "Ranking de Praças",
         description: "Envie o Ranking de Praças atualizado para as companhias.",
@@ -41,7 +32,7 @@ Porque o [color=#045199][b]Centro de Elitização Militar (CEM)[/b][/color] est�
             { id: '13', name: "Treinadores", logo: "https://i.imgur.com/21q4Cds.png" },
             { id: '31', name: "Escola de Formação de Executivos", logo: "https://i.imgur.com/QQW6h8M.png" },
             { id: '5', name: "Supervisores", logo: "https://i.imgur.com/eAP9eT2.png" },
-            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/gqaIYwv.png" }
+            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/g6z2gGS.png" }
         ],
         bbcode: `[font=Poppins][table style="border: none!important; overflow: hidden; border-radius: 15px; line-height: 0.6em" bgcolor="#1D1D1D"][tr style="overflow: hidden; border: none !important;"][td style="border: none!important; overflow: hidden"][img]https://i.imgur.com/tquYOEN.png[/img]
 
@@ -86,10 +77,6 @@ Porque o [color=#045199][b]Centro de Elitização Militar (CEM)[/b][/color] est�
 [img]https://i.imgur.com/cXZOJDS.png[/img][/center][/font]`
     },
 
-    // ========================================
-    // MEDIAÇÃO HIERÁRQUICA
-    // Enviar para: Todas as CIAS
-    // ========================================
     mediacao: {
         title: "Mediação Hierárquica",
         description: "Envie o informativo sobre a Mediação Hierárquica.",
@@ -100,7 +87,7 @@ Porque o [color=#045199][b]Centro de Elitização Militar (CEM)[/b][/color] est�
             { id: '13', name: "Treinadores", logo: "https://i.imgur.com/21q4Cds.png" },
             { id: '31', name: "Escola de Formação de Executivos", logo: "https://i.imgur.com/QQW6h8M.png" },
             { id: '5', name: "Supervisores", logo: "https://i.imgur.com/eAP9eT2.png" },
-            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/gqaIYwv.png" }
+            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/g6z2gGS.png" }
         ],
         bbcode: `[font=Poppins][table style="border: none!important; margin: 0em; color: black; font-weight: 400; border-radius: 10px; line-height: 0.5em;" bgcolor="#1d1d1d"]
 [tr style="border: none;"][td style="border: none!important;"][center][img]https://i.imgur.com/rcv2OLi.gif[/img][/center][table class="rank" style="border: none!important; margin: 0em; line-height: 1em;" bgcolor="#045199"][tr style="border: none;"][td style="border: none!important;"][size=18][color=white][b][color=#ffffff][img]https://i.imgur.com/9Lr1ZZt.gif[/img]
@@ -136,10 +123,6 @@ Texto por [url=https://system.policercc.com.br/membros/-Lupin:.][b][color=#1d1d1
 [/tr][/table][/center][/td][/tr][/table][/td][/tr][/table][/font]`
     },
 
-    // ========================================
-    // JOGOS EDUCATIVOS
-    // Enviar para: Todas as CIAS
-    // ========================================
     jogos: {
         title: "Jogos Educativos",
         description: "Envie a divulgação dos Jogos Educativos do CEM.",
@@ -150,7 +133,7 @@ Texto por [url=https://system.policercc.com.br/membros/-Lupin:.][b][color=#1d1d1
             { id: '13', name: "Treinadores", logo: "https://i.imgur.com/21q4Cds.png" },
             { id: '31', name: "Escola de Formação de Executivos", logo: "https://i.imgur.com/QQW6h8M.png" },
             { id: '5', name: "Supervisores", logo: "https://i.imgur.com/eAP9eT2.png" },
-            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/gqaIYwv.png" }
+            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/g6z2gGS.png" }
         ],
         bbcode: `[font=Poppins][table style="border: none!important; overflow: hidden; border-radius: 15px; line-height: 0.6em" bgcolor="#1D1D1D"]
 [tr style="overflow: hidden; border: none !important;"][td style="border: none!important; overflow: hidden"][img]https://i.postimg.cc/bvkJK1B3/1.gif[/img]
@@ -194,10 +177,6 @@ São [b]5 caça-palavras[/b] diferentes feitos especialmente para o ajudar no se
 Texto: [b]Crisw.[/b][/color][/size][/td][/tr][/table][/font]`
     },
 
-    // ========================================
-    // SIMULADO AUTOMÁTICO
-    // Enviar para: Todas as CIAS
-    // ========================================
     simulado: {
         title: "Simulado Automático",
         description: "Envie a divulgação do Simulado Automático.",
@@ -208,7 +187,7 @@ Texto: [b]Crisw.[/b][/color][/size][/td][/tr][/table][/font]`
             { id: '13', name: "Treinadores", logo: "https://i.imgur.com/21q4Cds.png" },
             { id: '31', name: "Escola de Formação de Executivos", logo: "https://i.imgur.com/QQW6h8M.png" },
             { id: '5', name: "Supervisores", logo: "https://i.imgur.com/eAP9eT2.png" },
-            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/gqaIYwv.png" }
+            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/g6z2gGS.png" }
         ],
         bbcode: `[font=Poppins][table  style="border: none!important; margin: 0em; color: black; font-weight: 400; border-radius: 10px; line-height: 0.5em;" bgcolor="#1d1d1d"][tr style="border: none;"][td style="border: none!important;"][center][img]https://2img.net/i.imgur.com/rcv2OLi.gif[/img][/center][table  class="rank" style="border: none!important; margin: 0em; line-height: 1em;" bgcolor="#045199"][tr style="border: none;"][td style="border: none!important;"][size=18][color=white][b][color=#ffffff][img]https://2img.net/i.imgur.com/9Lr1ZZt.gif[/img]
 CENTRO DE ELITIZAÇÃO MILITAR[/color][/b][/color][/size][/td][/tr][/table]
@@ -239,10 +218,6 @@ Texto por [url=https://system.policercc.com.br/membros/Kesie][b][color=#1d1d1d]K
 [color=#1d1d1d]Todos os direitos reservados ao [b]Centro de Elitização Militar[/b][/color][/size][/td][td style="border: none!important; overflow: hidden; width: 12%" bgcolor="EDF1F2"][img]https://www.habbo.com.br/habbo-imaging/badge/b09014s43131s50134s17013s170151e0a30a5a81c1fcb98d10054d03bc593.gif[/img][/td][/tr][/table][/center][/td][/tr][/table][/td][/tr][/table][/font]`
     },
 
-    // ========================================
-    // FLASH CEM
-    // Enviar para: Todas as CIAS
-    // ========================================
     flash_cem: {
         title: "Flash CEM",
         description: "Divulgação da ferramenta de estudos Flash CEM.",
@@ -253,7 +228,7 @@ Texto por [url=https://system.policercc.com.br/membros/Kesie][b][color=#1d1d1d]K
             { id: '13', name: "Treinadores", logo: "https://i.imgur.com/21q4Cds.png" },
             { id: '31', name: "Escola de Formação de Executivos", logo: "https://i.imgur.com/QQW6h8M.png" },
             { id: '5', name: "Supervisores", logo: "https://i.imgur.com/eAP9eT2.png" },
-            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/gqaIYwv.png" }
+            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/g6z2gGS.png" }
         ],
         bbcode: `[font=Poppins][table style="border: none!important; overflow: hidden; border-radius: 15px; width: auto; padding: 0; margin: 0 auto; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); text-align: center;" bgcolor="#045199"][tr style="border: none!important; overflow: hidden"][td style="border: none!important; overflow: hidden; padding: 7px"][table style="line-height: 0.2em; width: 100%; border-radius: 15px; border: none!important; overflow: hidden; line-height: 0.5em; margin: 0 auto;" bgcolor="#1D1D1D"][tr style="border: none!important; overflow: hidden"][td style="border: none!important; overflow: hidden; padding: 14px"][img]https://i.imgur.com/hlPW0qO.png[/img]
 
@@ -279,11 +254,6 @@ O [b][color=#045199]Flash CEM[/color][/b] existe pra te ajudar a manter constân
 [/td][/tr][/table][/td][/tr][/table][/font]`
     },
 
-    // ========================================
-    // DESTAQUES RANKING DE PRAÇAS
-    // Postar em: Todas as CIAS
-    // Campos: Nick, Texto, Data do Período, Banner
-    // ========================================
     destaques_ranking: {
         title: "Destaques do Ranking de Praças",
         description: "Envie os destaques com os três primeiros colocados do ranking.",
@@ -295,101 +265,81 @@ O [b][color=#045199]Flash CEM[/color][/b] existe pra te ajudar a manter constân
             { id: '13', name: "Treinadores", logo: "https://i.imgur.com/21q4Cds.png" },
             { id: '31', name: "Escola de Formação de Executivos", logo: "https://i.imgur.com/QQW6h8M.png" },
             { id: '5', name: "Supervisores", logo: "https://i.imgur.com/eAP9eT2.png" },
-            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/gqaIYwv.png" }
+            { id: '3', name: "Instrutores", logo: "https://i.imgur.com/g6z2gGS.png" }
         ],
-        bbcode: `[font=Poppins][table  style="border: none!important; overflow: hidden; border-radius: 15px; line-height: 0.6em" bgcolor="#1D1D1D"][tr style="overflow: hidden; border: none !important;"][td style="border: none!important; overflow: hidden"][img]https://i.postimg.cc/bvkJK1B3/1.gif[/img]
+        bbcode: `[font=Poppins][table style="line-height: 0.2em; width: 100%; border-radius: 15px; border: none!important; overflow: hidden; line-height: 0.5em; margin: 0 auto;" bgcolor="#1D1D1D"][tr style="border: none!important; overflow: hidden"][td style="border: none!important; overflow: hidden; padding: 14px"][img]https://i.postimg.cc/bvkJK1B3/1.gif[/img]
 
-[table  style="width: 100%; border: none!important; overflow: hidden; line-height: 1.5em; border-radius: 15px"][tr style="overflow: hidden; border: none !important;"][td style="border: none!important; overflow: hidden" bgcolor="045199"][center][img(35px,35px)]https://i.imgur.com/tKbFeDL.png[/img][/center]
-[b][size=18][color=white]RANKING DE PRAÇAS[/color][/size][/b][/td][/tr][tr style="overflow: hidden; border: none !important;"][td style="border: none!important; overflow: hidden" bgcolor="ffffff"][center]Saudações, [color=#045199][b]{USERNAME}[/b][/color].[/center]
+[table style="border: none!important; overflow: hidden !important; border-radius: 12px; width: 100% !important; display: table !important; padding: 0; margin: 10px 0 15px 0; text-align: center;" bgcolor="white"][tr style="border: none!important;"][td style="border: none!important; padding: 0px;"]<div style="padding: 25px 25px 20px 25px; border-radius: 12px; color: #222222; text-align: left; margin: 0 auto; width: 100%; border: 3px solid #0056b3; box-sizing: border-box; line-height: 1.5; display: block; overflow: hidden;">[table style="width: 260px !important; border: none !important; border-radius: 0 0 15px 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); margin: -28px auto 20px auto;" bgcolor="#0056b3"][tr][td style="padding: 6px 15px; text-align: center; border: none !important;"][font=Poppins][b][size=15][color=#FFFFFF][img(35px,35px)]https://i.imgur.com/HP35Gpk.png[/img]
+RANKING PRAÇAS[/color][/size][/b][/font][/td][/tr][/table]
+[center]Saudações, [b][color=#045199]{USERNAME}[/color][/b] [img(25px,25px)]https://i.imgur.com/ZxqKhb3.png[/img][/center].
+[center]O [b][color=#045199]Ranking de Praças[/color][/b] chegou para transformar [b][color=#045199]dedicação em reconhecimento[/color][/b]![/center]
+A cada quinzena, [color=#045199][b]todos os praças têm a oportunidade ideal para demonstrar dedicação[/b][/color] nas atividades promovidas pela subcompanhia [color=#045199][b]Centro de Elitização Militar[/b][/color]. Esta é uma excelente chance para se [color=#045199][b]destacar[/b][/color], [color=#045199][b]impulsionar suas chances de ascensão ao Corpo de Oficiais[/b][/color] da Polícia RCC e ainda [color=#045199][b]garantir prêmios exclusivos para os três melhores colocados[/b][/color]. Chegou o momento de [color=#045199][b]dar o seu melhor e assegurar o seu lugar no pódio[/b][/color]!
 
-[center]O Ranking de Praças chegou para transformar dedicação em reconhecimento!
-A cada quinzena, todos os praças têm a chance de mostrar seu empenho nas atividades que são organizadas pela subcompanhia [b][color=#045199]Centro de Elitização Militar[/color][/b]. Além de ser uma [b]grande oportunidade[/b] para se destacar e [b]aumentar suas chances de promoção ao Corpo de Oficiais[/b] da Polícia RCC, o ranking ainda garante prêmios exclusivos para os [b]três melhores colocados[/b]. Agora é a hora de dar o seu máximo e conquistar seu lugar no pódio!
+Com isso, o Centro de Elitização Militar vem, por este meio, parabenizar aqueles que, com muito esforço, conseguiram entrar no [b][color=#045199]top 3[/color][/b] do ranking de praças durante a quinzena [color=#045199][b]{{periodo_inicio}} a {{periodo_fim}}[/b][/color].
 
-Com isso, o [b][color=#045199]Centro de Elitização Militar[/color][/b] vem, por este meio, parabenizar aqueles que, com muito esforço, conseguiram entrar no top 3 do ranking de praças durante a quinzena [b][color=#045199]{{periodo_inicio}} a {{periodo_fim}}[/b][/color].[/center]
+Mais do que uma competição, é a oportunidade perfeita para mostrar o seu [color=#045199][b]compromisso e excelência[/b][/color] no desempenho das suas funções. [color=#045199][b]O seu empenho é o fator decisivo para destacar o seu nome e garantir uma posição de destaque entre os melhores da quinzena[/b][/color].
 
-[img(400px,500px)]{{banner}}[/img]
+[center]Parabéns a [b][color=#045199]{{nick1}}[/color][/b], [b][color=#045199]{{nick2}}[/color][/b] e [b][color=#045199]{{nick3}}[/color][/b] que continuem a inspirar com o vosso empenho, compromisso e determinação![/center]
 
-[table  style="border-radius: 14px; overflow: hidden; width: 100%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" bgcolor="#045199" border="1"][tr][td style="width: 20%; RCC - SÓ A VERDADEIRA:#045199;" align="center"][img(50px,50px)]https://i.imgur.com/1E2Fw1u.gif[/img]
-[color=white][size=18][b]DESTAQUES DA QUINZENA[/color][/size][/b][/td][/tr][/table]
+<div style="text-align: center; margin: 25px auto;"><div style="border-radius: 20px; overflow: hidden; display: inline-block; width: 400px; height: 500px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">[img(400px,500px)]{{banner}}[/img]</div></div><div style="background-color: #f0f4f9; border-left: 4px solid #0056b3; padding: 10px 15px; border-radius: 0 8px 8px 0; margin-bottom: 5px;">[img(20px,20px)]https://i.imgur.com/ZxqKhb3.png[/img] Quer participar do Ranking de Praças e, quem sabe, ser citado numa Mensagem Privada do Centro de Elitização Militar? Confira como no [url=https://www.policiarcc.com/t38544-cem-ranking-de-pracas-umbrindeaofuturo][color=#045199][b]tópico[/b][/color][/url] e acesse a [url=https://docs.google.com/spreadsheets/d/1z_RxKOyJRsiaDBjSuzyxFstsir1DcDi8piFJCSJ-biI/edit][color=#045199][b]planilha[/b][/color][/url] para ver o ranking atual!</div>[/td][/tr][/table]
 
-[table  style="border-radius: 14px; overflow: hidden; width: 100%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" bgcolor="#f0f0f0" border="1"][tr][td style="width: 20%; RCC - SÓ A VERDADEIRA:#045199;" align="center"][img]http://www.habbo.com.br/habbo-imaging/avatarimage?user={{nick1}}&action=std&direction=2&head_direction=3&gesture=sml&size=b[/img][/td][td style="width: 80%;"][justify][b]➣[/b] {{texto1}}
-RCC.[/justify][/td][/tr][/table]
-
-[table  style="border-radius: 14px; overflow: hidden; width: 100%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" bgcolor="#f0f0f0" border="1"][tr][td style="width: 20%; RCC - SÓ A VERDADEIRA:#045199;" align="center"][img]http://www.habbo.com.br/habbo-imaging/avatarimage?user={{nick2}}&action=std&direction=2&head_direction=3&gesture=sml&size=b[/img][/td][td style="width: 80%;"][justify][b]➣[/b] {{texto2}}[/justify][/td][/tr][/table]
-
-[table  style="border-radius: 14px; overflow: hidden; width: 100%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" bgcolor="#f0f0f0" border="1"][tr][td style="width: 20%; RCC - SÓ A VERDADEIRA:#045199;" align="center"][img]http://www.habbo.com.br/habbo-imaging/avatarimage?user={{nick3}}&action=std&direction=2&head_direction=3&gesture=sml&size=b[/img][/td][td style="width: 80%;"][justify][b]➣[/b] {{texto3}}[/justify][/td][/tr][/table]
-
-[center]➣ Quer participar do Ranking de Praças e, quem sabe, ser citado numa Mensagem Privada do Centro de Elitização Militar? Confira como aqui![/center]
-
-[center][table  style="border-radius:15px; overflow:hidden; width:620px; text-align:center;" bgcolor="#045199"][tr][td style="padding:10px; text-align:center; vertical-align:middle; width:50%;"][url=https://www.policiarcc.com/t38544-cem-ranking-de-pracas-umbrindeaofuturo]
-[img(40px,40px)]https://i.imgur.com/0NW5Xkl.png[/img]
-[b][size=14][color=white]TÓPICO[/color][/size][/b]
-[size=11][color=white]Clique aqui para poder acessar o tópico.[/color][/size][/url][/td][td style="padding:10px; text-align:center; vertical-align:middle; width:50%;"][url=https://cem-rankingdepracas.netlify.app/]
-[img(40px,40px)]https://i.imgur.com/WtaKKSz.png[/img]
-[b][size=14][color=white]RANKING DE PRAÇAS[/color][/size][/b]
-[size=11][color=white]Clique aqui para acessar o ranking.[/color][/size][/url][/td][/tr][/table][/td][/tr][/table][/center]
-
-[size=11][color=white]BBCode por [url=https://system.policercc.com.br/membros/.Brendon][color=white][b].Brendon[/b][/color][/url].
-Texto por [url=https://system.policercc.com.br/membros/Crisw][color=white][b]Crisw[/b][/color][/url].[/color][/size][/td][/tr][/table][/font]`
+[color=white][center]BBCode criado por [url=https://system.policercc.com.br/perfil/Crisw][color=white][b]Crisw[/b][/color][/url][/center][/color][/td][/tr][/table][/font]`
     },
 
-    // ========================================
-    // DESTAQUES MELHORES DO CEM
-    // Enviar para: CEM
-    // Campos: Data do Período, Texto, Nick, Banner
-    // ========================================
     destaques_melhores: {
-        title: "Melhores do CEM",
-        description: "Envie os destaques dos Melhores da Semana.",
+        title: "Destaques Semanais",
+        description: "Envie os destaques dos Melhores da Semana do CEM.",
         destino: "CEM",
         hasForm: true,
-        subject: "[CEM] Conheça os melhores do CEM da semana!",
+        subject: "[CEM] Destaques Semanais!",
         groups: [
             { id: '574', name: "Centro de Elitização Militar", logo: "https://i.imgur.com/9Lr1ZZt.gif" }
         ],
-        bbcode: `[font=Poppins][table    style="border: none!important; overflow: hidden; border-radius: 15px; line-height: 0.6em" bgcolor="#1D1D1D"][tr style="overflow: hidden; border: none !important;"][td style="border: none!important; overflow: hidden"][img]https://i.postimg.cc/bvkJK1B3/1.gif[/img]
+        bbcode: `[font=Poppins][table style="line-height: 0.2em; width: 100%; border-radius: 15px; border: none!important; overflow: hidden; line-height: 0.5em; margin: 0 auto;" bgcolor="#1D1D1D"]
+[tr style="border: none!important; overflow: hidden"][td style="border: none!important; overflow: hidden; padding: 14px"][img]https://i.postimg.cc/bvkJK1B3/1.gif[/img]
+[table style="border: none!important; overflow: hidden !important; border-radius: 12px; width: 100% !important; display: table !important; padding: 0; margin: 10px 0 15px 0; text-align: center;" bgcolor="white"][tr style="border: none!important;"][td style="border: none!important; padding: 0px;"]<div style="padding: 25px 25px 20px 25px; border-radius: 12px; color: #222222; text-align: left; margin: 0 auto; width: 100%; border: 3px solid #0056b3; box-sizing: border-box; line-height: 1.5; display: block; overflow: hidden;">[table style="width: 260px !important; border: none !important; border-radius: 0 0 15px 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); margin: -28px auto 20px auto;" bgcolor="#0056b3"][tr][td style="padding: 6px 15px; text-align: center; border: none !important;"][font=Poppins][b][size=15][color=#FFFFFF][img(35px,35px)]https://i.imgur.com/7SrTTff.png[/img]
+DESTAQUES SEMANAIS[/color][/size][/b][/font][/td][/tr][/table]
+[center]Saudações, [b][color=#045199]{USERNAME}[/color][/b] [img(25px,25px)]https://i.imgur.com/ZxqKhb3.png[/img][/center]
 
-[table    style="width: 100%; border: none!important; overflow: hidden; line-height: 1.5em; border-radius: 15px"][tr style="overflow: hidden; border: none !important;"][td style="border: none!important; overflow: hidden" bgcolor="045199"][center][img(35px,35px)]https://i.imgur.com/PMEExne.png[/img][/center]
-[b][size=18][color=white]MELHORES DA SEMANA[/color][/size][/b][/td][/tr][tr style="overflow: hidden; border: none !important;"][td style="border: none!important; overflow: hidden" bgcolor="ffffff"][center]Saudações, [color=#045199][b]{USERNAME}[/b][/color].[/center]
+Todas as semanas, os membros do [b][color=#045199]Departamento de Aplicações[/color][/b] do [b][color=#045199]Centro de Elitização Militar[/color][/b] têm a oportunidade de demonstrar o seu empenho e dedicação durante as aulas e treinamentos que são promovidos pela subcompanhia. Cada atividade representa uma [b][color=#045199]oportunidade de evolução[/color][/b], permitindo o aperfeiçoamento contínuo das suas capacidades e o [b][color=#045199]fortalecimento da comunicação[/color][/b] e acompanhamento com os restantes membros da Polícia RCC.
 
-[center]Atenção que os melhores da semana chegaram!
-Todas as semanas, os membros do Departamento de Aplicações do [b][color=#045199]Centro de Elitização Militar[/color][/b] têm a oportunidade de demonstrar seu empenho nas aulas e treinamentos promovidos pela subcompanhia, mostrando dedicação e aprimoramento constantes. Além de ser uma [b]excelente oportunidade[/b] para se destacar, também [b]fortalece o seu contacto com os subalternos[/b] da Polícia RCC. Este é o momento de dar o seu melhor e conquistar o seu lugar no pódio!
+Mais do que uma competição, esta é uma oportunidade para mostrar compromisso e excelência no desempenho das suas funções. O seu esforço pode fazer a diferença e garantir um lugar entre os melhores da semana.
 
-Com isso, o [b][color=#045199]Centro de Elitização Militar[/color][/b] vem, por este meio, parabenizar aqueles que, com muito esforço, conseguiram se destacar e são os destaques da semana de [b][color=#045199]{{periodo_inicio}} a {{periodo_fim}}[/color][/b].[/center]
+Desta forma, o [color=#045199][b]Centro de Elitização Militar[/b][/color] tem a honra de parabenizar todos aqueles que, através do seu trabalho, dedicação e desempenho exemplar, se destacaram durante o período de [b][color=#045199]{{periodo_inicio}} a {{periodo_fim}}[/color][/b], conquistando o reconhecimento como Destaques da Semana.
 
-[img(400px,500px)]{{banner}}[/img]
+[center]Parabéns a [b][color=#045199]{{nick1}}[/color][/b] e [b][color=#045199]{{nick2}}[/color][/b] que continuem a ser exemplo de dedicação, profissionalismo e excelência![/center]
 
-[table    style="border-radius: 14px; overflow: hidden; width: 100%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" bgcolor="#045199" border="1"][tr][td style="width: 20%; RCC - SÓ A VERDADEIRA:#045199;" align="center"][img(50px,50px)]https://i.imgur.com/1E2Fw1u.gif[/img]
-[color=white][size=18][b]DESTAQUES DA SEMANA[/color][/size][/b][/td][/tr][/table]
+<div style="text-align: center; margin: 25px auto;"><div style="border-radius: 20px; overflow: hidden; display: inline-block; width: 400px; height: 500px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">[img(400px,500px)]{{banner}}[/img]</div></div>
+<div style="background-color:#f0f4f9;border-left:4px solid #0056b3;padding:10px 15px;border-radius:0 8px 8px 0;margin-bottom:5px;"> A próxima Mensagem Privada do [color=#045199][b]Centro de Elitização Militar[/b][/color] [b][color=#045199]pode destacar você![/color][/b] Para isso, aplique as aulas, coloque os treinamentos em prática e [b][color=#045199]demonstre dedicação e empenho![/color][/b]</div></div>[/td][/tr][/table]
 
-[table    style="border-radius: 14px; overflow: hidden; width: 100%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" bgcolor="#f0f0f0" border="1"][tr][td style="width: 20%; RCC - SÓ A VERDADEIRA:#045199;" align="center"][img]http://www.habbo.com.br/habbo-imaging/avatarimage?user={{nick1}}&action=std&direction=2&head_direction=3&gesture=sml&size=b[/img][/td][td style="width: 80%;"][justify][b]➣[/b] {{texto1}}[/justify][/td][/tr][/table]
-
-[table    style="border-radius: 14px; overflow: hidden; width: 100%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" bgcolor="#f0f0f0" border="1"][tr][td style="width: 20%; RCC - SÓ A VERDADEIRA:#045199;" align="center"][img]http://www.habbo.com.br/habbo-imaging/avatarimage?user={{nick2}}&action=std&direction=2&head_direction=3&gesture=sml&size=b[/img][/td][td style="width: 80%;"][justify][b]➣[/b] {{texto2}}[/justify][/td][/tr][/table]
-
-[center]➣ Quer aparecer em uma Mensagem Privada do Centro de Elitização Militar e ser um dos destaques? Então mãos à obra: aplique as aulas e treinamentos e [b]mostre seu empenho![/b]
-
-➣Inscreva-se no Processo Seletivo do Centro de Elitização Militar clicando no tópico [b][url=https://www.policiarcc.com/t38491-cem-processo-seetivo-faca-parte-do-presente][color=#045199][CEM] PROCESSO SELETIVO![/color][/url][/b] e faça parte da [b]melhor[/b] subcompanhia.[/td][/tr][/table][/center]
-
-[size=11][color=white]BBCode por [url=https://system.policercc.com.br/membros/.Brendon][color=white][b].Brendon[/b][/color][/url].
-Texto por [url=https://system.policercc.com.br/membros/Crisw][color=white][b]Crisw[/b][/color][/url].[/color][/size][/td][/tr][/table][/font]`
+[center][size=12][color=#FFFFFF]<i class="fas fa-palette"></i> BBCode criado por [url=https://system.policercc.com.br/perfil/Crisw][b][color=#5cb3ff]Crisw[/color][/b][/url][/color][/size][/center]
+[/td][/tr][/table][/font]`
     }
 };
 
-// Estado atual
 let currentTemplate = 'processo_seletivo';
 let isSending = false;
 
-// Funções de UI
 function selectTemplate(key) {
     currentTemplate = key;
     const template = templates[key];
 
-    // Atualizar título e descrição
     document.getElementById('template-title').textContent = template.title;
     document.getElementById('template-description').textContent = template.description;
     document.getElementById('template-destino').textContent = template.destino;
 
-    // Esconder todos os forms e actions
+    const disclosureTemplates = [
+        'processo_seletivo',
+        'ranking_pracas',
+        'mediacao',
+        'jogos',
+        'simulado',
+        'flash_cem'
+    ];
+    const isSimpleDisclosure = disclosureTemplates.includes(key) && !template.hasForm;
+    document.getElementById('template-info').classList.toggle('hidden', disclosureTemplates.includes(key));
+    document.querySelector('main').classList.toggle('is-compact-template', isSimpleDisclosure);
+
     const allTemplates = Object.keys(templates);
     allTemplates.forEach(t => {
         const form = document.getElementById(`form-${t}`);
@@ -398,28 +348,23 @@ function selectTemplate(key) {
         if (action) action.classList.add('hidden');
     });
 
-    // Mostrar form e action atual
     const currentForm = document.getElementById(`form-${key}`);
     const currentAction = document.getElementById(`action-${key}`);
     if (currentForm) currentForm.classList.remove('hidden');
     if (currentAction) currentAction.classList.remove('hidden');
 
-    // Atualizar botões da sidebar
     allTemplates.forEach(t => {
         const btn = document.getElementById(`btn-${t}`);
         if (btn) {
-            if (t === key) {
-                btn.className = 'w-full text-left p-4 rounded-xl bg-[#8B0000] text-white transition-all flex items-center gap-3 shadow-lg shadow-[#8B0000]/10 border border-[#DC2626]/50';
-            } else {
-                btn.className = 'w-full text-left p-4 rounded-xl hover:bg-white/5 transition-all flex items-center gap-3 mt-2';
-            }
+            const isActive = t === key;
+            btn.classList.toggle('is-active', isActive);
+            if (isActive) btn.setAttribute('aria-current', 'page');
+            else btn.removeAttribute('aria-current');
         }
     });
 
-    // Resetar progresso
     resetProgress(key);
 
-    // Fechar menu mobile
     toggleMobileMenu(false);
 }
 
@@ -443,7 +388,7 @@ function resetProgress(tipo) {
         btn.classList.remove('opacity-50', 'cursor-not-allowed', 'bg-green-600', 'bg-yellow-600');
     }
     if (btnText) {
-        btnText.textContent = 'Enviar para grupos';
+        btnText.textContent = 'Enviar';
     }
     enableSidebar();
 }
@@ -452,7 +397,6 @@ function disableSidebar() {
     const sidebar = document.getElementById('sidebar');
     const overlay = document.getElementById('sidebar-overlay');
     if (sidebar) sidebar.classList.add('pointer-events-none', 'opacity-50');
-    // Disable all sidebar buttons
     const buttons = sidebar.querySelectorAll('button');
     buttons.forEach(btn => btn.disabled = true);
 }
@@ -461,7 +405,6 @@ function enableSidebar() {
     const sidebar = document.getElementById('sidebar');
     const overlay = document.getElementById('sidebar-overlay');
     if (sidebar) sidebar.classList.remove('pointer-events-none', 'opacity-50');
-    // Enable all sidebar buttons
     const buttons = sidebar.querySelectorAll('button');
     buttons.forEach(btn => btn.disabled = false);
 }
@@ -470,7 +413,7 @@ function formatDate(dateStr) {
     if (!dateStr) return '';
     try {
         const date = new Date(dateStr + 'T00:00:00');
-        if (isNaN(date.getTime())) return dateStr; // Return original if invalid
+        if (isNaN(date.getTime())) return dateStr;
 
         const day = String(date.getDate()).padStart(2, '0');
         const months = ['Jan.', 'Fev.', 'Mar.', 'Abr.', 'Mai.', 'Jun.', 'Jul.', 'Ago.', 'Set.', 'Out.', 'Nov.', 'Dez.'];
@@ -487,17 +430,13 @@ function generateBBCode(tipo) {
     const template = templates[tipo];
     let bbcode = template.bbcode;
 
-    // Substituir placeholders para destaques_ranking
     if (tipo === 'destaques_ranking') {
         const inicio = document.getElementById('input-dr-inicio')?.value;
         const fim = document.getElementById('input-dr-fim')?.value;
-        const banner = document.getElementById('input-dr-banner')?.value || 'https://i.imgur.com/9Lr1ZZt.gif';
+        const banner = document.getElementById('input-dr-banner')?.value || 'https://i.imgur.com/AK5UPFM.jpeg';
         const nick1 = document.getElementById('input-dr-nick1')?.value || 'Nick não informado';
         const nick2 = document.getElementById('input-dr-nick2')?.value || 'Nick não informado';
         const nick3 = document.getElementById('input-dr-nick3')?.value || 'Nick não informado';
-        const texto1 = document.getElementById('input-dr-texto1')?.value || 'Texto não informado';
-        const texto2 = document.getElementById('input-dr-texto2')?.value || 'Texto não informado';
-        const texto3 = document.getElementById('input-dr-texto3')?.value || 'Texto não informado';
 
         bbcode = bbcode
             .replace(/\{\{banner\}\}/g, banner)
@@ -505,30 +444,22 @@ function generateBBCode(tipo) {
             .replace(/\{\{periodo_fim\}\}/g, formatDate(fim))
             .replace(/\{\{nick1\}\}/g, nick1)
             .replace(/\{\{nick2\}\}/g, nick2)
-            .replace(/\{\{nick3\}\}/g, nick3)
-            .replace(/\{\{texto1\}\}/g, texto1)
-            .replace(/\{\{texto2\}\}/g, texto2)
-            .replace(/\{\{texto3\}\}/g, texto3);
+            .replace(/\{\{nick3\}\}/g, nick3);
     }
 
-    // Substituir placeholders para destaques_melhores
     if (tipo === 'destaques_melhores') {
         const inicio = document.getElementById('input-dm-inicio')?.value;
         const fim = document.getElementById('input-dm-fim')?.value;
         const banner = document.getElementById('input-dm-banner')?.value || 'https://i.imgur.com/9Lr1ZZt.gif';
         const nick1 = document.getElementById('input-dm-nick1')?.value || 'Nick não informado';
         const nick2 = document.getElementById('input-dm-nick2')?.value || 'Nick não informado';
-        const texto1 = document.getElementById('input-dm-texto1')?.value || 'Texto não informado';
-        const texto2 = document.getElementById('input-dm-texto2')?.value || 'Texto não informado';
 
         bbcode = bbcode
             .replace(/\{\{banner\}\}/g, banner)
             .replace(/\{\{periodo_inicio\}\}/g, formatDate(inicio))
             .replace(/\{\{periodo_fim\}\}/g, formatDate(fim))
             .replace(/\{\{nick1\}\}/g, nick1)
-            .replace(/\{\{nick2\}\}/g, nick2)
-            .replace(/\{\{texto1\}\}/g, texto1)
-            .replace(/\{\{texto2\}\}/g, texto2);
+            .replace(/\{\{nick2\}\}/g, nick2);
     }
 
     return bbcode;
@@ -563,7 +494,6 @@ function copyCode() {
     const copyText = document.getElementById('output-bbcode');
     const textToCopy = copyText.value;
 
-    // Função interna para mostrar feedback visual
     const showFeedback = () => {
         const msg = document.getElementById('copy-msg');
 
@@ -581,7 +511,6 @@ function copyCode() {
         }, 2000);
     };
 
-    // Tentar API moderna
     if (navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(textToCopy).then(() => {
             showFeedback();
@@ -595,11 +524,9 @@ function copyCode() {
 
     function fallbackCopy(text) {
         try {
-            // Criar elemento temporário visível
             const textArea = document.createElement("textarea");
             textArea.value = text;
 
-            // Garantir que o elemento seja parte do DOM mas não atrapalhe o layout
             textArea.style.position = "fixed";
             textArea.style.left = "-9999px";
             textArea.style.top = "0";
@@ -630,13 +557,11 @@ function showError(message) {
     if (errorText) errorText.textContent = message;
 
     if (errorMsg) {
-        // Clear previous timeout to prevent race conditions
         if (errorTimeout) clearTimeout(errorTimeout);
 
         errorMsg.classList.remove('hidden', 'toast-animate-out');
         errorMsg.classList.add('toast-animate-in');
 
-        // Adicionar animação de shake para chamar atenção
         errorMsg.classList.add('shake');
         setTimeout(() => errorMsg.classList.remove('shake'), 500);
 
@@ -656,22 +581,27 @@ function showError(message) {
 function validateForm(tipo) {
     let isValid = true;
     let fieldsToCheck = [];
+    const invalidFieldClasses = [
+        'invalid-field',
+        'border-red-500',
+        'bg-red-500/5',
+        'ring-2',
+        'ring-red-500/[.35]',
+        'ring-offset-1',
+        'ring-offset-surface-input'
+    ];
 
-    // Limpar estilos de erro anteriores
-    document.querySelectorAll('.invalid-field').forEach(el => el.classList.remove('invalid-field'));
+    document.querySelectorAll('.invalid-field').forEach(el => el.classList.remove(...invalidFieldClasses));
 
     if (tipo === 'destaques_ranking') {
         fieldsToCheck = [
             'input-dr-inicio', 'input-dr-fim', 'input-dr-banner',
-            'input-dr-nick1', 'input-dr-texto1',
-            'input-dr-nick2', 'input-dr-texto2',
-            'input-dr-nick3', 'input-dr-texto3'
+            'input-dr-nick1', 'input-dr-nick2', 'input-dr-nick3'
         ];
     } else if (tipo === 'destaques_melhores') {
         fieldsToCheck = [
             'input-dm-inicio', 'input-dm-fim', 'input-dm-banner',
-            'input-dm-nick1', 'input-dm-texto1',
-            'input-dm-nick2', 'input-dm-texto2'
+            'input-dm-nick1', 'input-dm-nick2'
         ];
     }
 
@@ -679,7 +609,7 @@ function validateForm(tipo) {
         const field = document.getElementById(id);
         if (field && !field.value.trim()) {
             isValid = false;
-            field.classList.add('invalid-field');
+            field.classList.add(...invalidFieldClasses);
         }
     });
 
@@ -690,11 +620,9 @@ function validateForm(tipo) {
     return isValid;
 }
 
-// Função de envio para grupos
 async function enviarMensagemGrupo(tipo) {
     if (isSending) return;
 
-    // Validar antes de enviar
     if (!validateForm(tipo)) return;
 
     const template = templates[tipo];
@@ -707,11 +635,9 @@ async function enviarMensagemGrupo(tipo) {
     const progressText = document.getElementById(`${tipo}-progress-text`);
     const statusContainer = document.getElementById(`${tipo}-status`);
 
-    // Desabilitar sidebar durante o envio
     disableSidebar();
 
     const bbcode = generateBBCode(tipo);
-    // Também preencher o textarea de output para o caso de erro (para copiar)
     document.getElementById('output-bbcode').value = bbcode;
 
     const subject = template.subject;
@@ -757,13 +683,11 @@ async function enviarMensagemGrupo(tipo) {
         if (i < groups.length - 1) await new Promise(r => setTimeout(r, 5000));
     }
 
-    // Safe guard to ensure sidebar unlock if something catastrophic happens
     try {
         if (erros === 0) {
             btnText.innerText = 'Todas enviadas!';
             btn.classList.add('bg-green-600');
 
-            // Celebrar!
             if (typeof confetti === 'function') {
                 confetti({
                     particleCount: 150,
@@ -773,7 +697,6 @@ async function enviarMensagemGrupo(tipo) {
                 });
             }
 
-            // Mostrar modal de sucesso
             setTimeout(() => {
                 const successModal = document.getElementById('modal-success');
                 successModal.classList.remove('hidden');
@@ -785,7 +708,6 @@ async function enviarMensagemGrupo(tipo) {
             btnText.innerText = `${enviados}/${groups.length} enviadas`;
             btn.classList.add('bg-yellow-600');
 
-            // Mostrar modal de erro com lista
             setTimeout(() => {
                 const errorModal = document.getElementById('modal-error-send');
                 const listContainer = document.getElementById('failed-groups-list');
@@ -798,7 +720,6 @@ async function enviarMensagemGrupo(tipo) {
         }
     } catch (err) {
         console.error('Erro ao finalizar envio:', err);
-        // Ensure UI unlock on error
         enableSidebar();
     } finally {
         setTimeout(() => {
@@ -813,12 +734,11 @@ async function enviarMensagemGrupo(tipo) {
 
 function closeResultModal(modalId) {
     const modal = document.getElementById(modalId);
-    const content = modal.querySelector('div'); // First child div
+    const content = modal.querySelector('div');
 
     content.classList.remove('modal-animate');
     content.classList.add('modal-animate-out');
 
-    // Desbloquear sidebar ao fechar o modal
     enableSidebar();
 
     setTimeout(() => {
@@ -827,7 +747,6 @@ function closeResultModal(modalId) {
     }, 300);
 }
 
-// Helpers de Status
 function addStatusRow(containerId, id, title, subtitle = '', logo = '') {
     const container = document.getElementById(containerId);
     const rowId = `status-row-${String(id).replace(/\s+/g, '-')}`;
@@ -880,7 +799,6 @@ function updateStatusRow(containerId, id, status) {
     }
 }
 
-// Modal close on click outside
 window.onclick = function (event) {
     const modal = document.getElementById('modal');
     if (event.target == modal) {
@@ -888,11 +806,49 @@ window.onclick = function (event) {
     }
 }
 
-// Lógica de Menu Mobile
 const mobileMenuBtn = document.getElementById('mobile-menu-btn');
 const closeSidebarBtn = document.getElementById('close-sidebar-btn');
+const sidebarCollapseBtn = document.getElementById('sidebar-collapse-btn');
 const sidebar = document.getElementById('sidebar');
 const sidebarOverlay = document.getElementById('sidebar-overlay');
+const sidebarTooltip = document.getElementById('sidebar-tooltip');
+
+function hideSidebarTooltip() {
+    sidebarTooltip.classList.remove('opacity-100');
+    sidebarTooltip.setAttribute('aria-hidden', 'true');
+}
+
+function showSidebarTooltip(item) {
+    if (!sidebar.classList.contains('is-collapsed') || !window.matchMedia('(min-width: 769px)').matches) {
+        hideSidebarTooltip();
+        return;
+    }
+
+    sidebarTooltip.textContent = item.dataset.tooltip;
+    sidebarTooltip.classList.add('opacity-100');
+    sidebarTooltip.setAttribute('aria-hidden', 'false');
+
+    const itemRect = item.getBoundingClientRect();
+    const tooltipRect = sidebarTooltip.getBoundingClientRect();
+    const centerY = itemRect.top + (itemRect.height / 2);
+    const safeTop = Math.min(
+        Math.max(centerY - (tooltipRect.height / 2), 8),
+        window.innerHeight - tooltipRect.height - 8
+    );
+    const safeLeft = Math.min(itemRect.right + 10, window.innerWidth - tooltipRect.width - 8);
+
+    sidebarTooltip.style.top = `${safeTop}px`;
+    sidebarTooltip.style.left = `${safeLeft}px`;
+}
+
+function setSidebarCollapsed(collapsed) {
+    sidebar.classList.toggle('is-collapsed', collapsed);
+    document.body.classList.toggle('sidebar-collapsed', collapsed);
+    sidebarCollapseBtn.setAttribute('aria-expanded', String(!collapsed));
+    sidebarCollapseBtn.setAttribute('aria-label', collapsed ? 'Expandir menu' : 'Recolher menu');
+    sidebarCollapseBtn.title = collapsed ? 'Expandir menu' : 'Recolher menu';
+    hideSidebarTooltip();
+}
 
 function toggleMobileMenu(show) {
     if (show) {
@@ -909,8 +865,43 @@ function toggleMobileMenu(show) {
 mobileMenuBtn.addEventListener('click', () => toggleMobileMenu(true));
 closeSidebarBtn.addEventListener('click', () => toggleMobileMenu(false));
 sidebarOverlay.addEventListener('click', () => toggleMobileMenu(false));
+sidebarCollapseBtn.addEventListener('click', () => {
+    setSidebarCollapsed(!sidebar.classList.contains('is-collapsed'));
+});
 
-// Inicialização - selecionar primeiro template
+sidebar.querySelectorAll('.sidebar-nav-item').forEach(item => {
+    item.setAttribute('aria-label', item.dataset.tooltip);
+    item.addEventListener('mouseenter', () => showSidebarTooltip(item));
+    item.addEventListener('mouseleave', hideSidebarTooltip);
+    item.addEventListener('focus', () => showSidebarTooltip(item));
+    item.addEventListener('blur', hideSidebarTooltip);
+});
+
+sidebar.querySelector('nav').addEventListener('scroll', hideSidebarTooltip, { passive: true });
+window.addEventListener('resize', hideSidebarTooltip);
+
+document.addEventListener('keydown', event => {
+    if (event.key === 'Escape') toggleMobileMenu(false);
+});
+
+function updateSidebarCounts() {
+    sidebar.querySelectorAll('.sidebar-section').forEach(section => {
+        const models = [...section.querySelectorAll('.sidebar-nav-item')].filter(item => {
+            return !item.classList.contains('hidden') && item.getAttribute('aria-hidden') !== 'true';
+        });
+        const counter = section.querySelector('.sidebar-section-count');
+        const total = models.length;
+
+        counter.textContent = String(total).padStart(2, '0');
+        counter.setAttribute('aria-label', `${total} ${total === 1 ? 'modelo' : 'modelos'}`);
+    });
+}
+
 document.addEventListener('DOMContentLoaded', () => {
+    updateSidebarCounts();
+
+    if (window.matchMedia('(min-width: 769px)').matches) {
+        setSidebarCollapsed(true);
+    }
     selectTemplate('processo_seletivo');
 });
